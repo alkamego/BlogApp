@@ -1,2 +1,2 @@
-# ToDoApp
+# BlogApp
 Batuhan and Huseyin
